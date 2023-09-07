@@ -1,0 +1,2 @@
+#line 1 "C:\\Users\\Administrator\\OneDrive\\Documents\\Arduino\\E32\\esp32_e32_web_manager_gateway\\data\\settings.json"
+var settings = {"localRestPort":8080, "localWSPort":8081};
